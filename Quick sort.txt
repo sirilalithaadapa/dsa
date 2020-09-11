@@ -1,0 +1,18 @@
+Procedure:
+
+Algorithmic steps:
+
+1) Consider an unsorted list.
+2) Identify the first element as key/pivot element
+3) Start comparing the key with rightmost element.
+4) As long as there is bigger element towards right, keep coming left(Move R to L)
+5) When a smaller element is found, perform swap.
+6) Start comparing the key with leftmost element.
+7) As long as there is a smaller element towards left, keep coming right (Move L to R)
+8) When a bigger element is found, perform swap.
+9) repeat the steps 4 to 8 till the key element reaches its own/appropriate place.
+10) Further, divide the list into 2 sublists (left & right sublists based on the key 
+    position).
+11) Again apply the steps 2 to 10 on both left & right sublists till the list is sorted.
+
+
