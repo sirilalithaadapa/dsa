@@ -3,7 +3,7 @@
 Data Structures and Algorithms using Java
 
 ## Assigments
- * [Assignment-1] (https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/ASSIGNMENT)
+ * [Assignment-1](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/ASSIGNMENT)
 
 ## Table of contents
 
