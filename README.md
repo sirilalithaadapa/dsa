@@ -7,7 +7,7 @@ Data Structures and Algorithms using Java
 
 ## Table of contents
 
-* [BIGO](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/master/BIGO.md)
+
 * [Arrays](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/ArrayADT.java)
 * [Search](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/Search)
   * [Linear Search](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Search/LinearSearch.java)
