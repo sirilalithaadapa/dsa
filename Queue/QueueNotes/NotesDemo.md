@@ -1,10 +1,10 @@
 
-##DEFINITION:- 
+# DEFINITION:- 
 
 *Queue is data structure whose its element can be added in the last element and taken only from the first element.  
 *Known as FIFO (First In First Out).
 
-Components  of Queues:- 
+## Components  of Queues:- 
 
 • Front is a variable which refers to first position in queue 
 
@@ -14,7 +14,7 @@ Components  of Queues:-
 
 • MaxQueue is variable that describes maximum number of elements in a queue. 
 
-OPERATION:- 
+## OPERATION:- 
 
 1.)Enqueue: An operation to insert an element in the queue is Enqueue (function queueEnqueue in the program). For inserting an element at the rear end, we need to first check if the queue is full. If it is full, then we cannot insert the element. If rear < n, then we insert the element in the queue. 
 
@@ -24,7 +24,7 @@ OPERATION:-
 
 4.) Display: This method traverses the queue and displays the elements of the queue. 
 
-TYPES OF QUEUES: 
+## TYPES OF QUEUES: 
 
 1.) Simple Queue :-
 
@@ -57,7 +57,7 @@ It’s used in interrupt handling, Prim’s algorithm, Dijkstra’s algorithm,  
 
 A deque is also a special type of queue. In this queue, the enqueue and dequeue operations take place at both front and rear. That means, we can insert an item at both the ends and can remove an item from both the ends. Thus, it may or may not adhere to the FIFO order: 
 
-Applications :- 
+## Applications :- 
 
 • In real life scenario, Call Center phone systems uses Queues to hold people calling them in an order, until a service representative is free 
 
