@@ -1,8 +1,8 @@
 
 # DEFINITION:- 
 
-*Queue is data structure whose its element can be added in the last element and taken only from the first element.  
-*Known as FIFO (First In First Out).
+* Queue is data structure whose its element can be added in the last element and taken only from the first element.  
+* Known as FIFO (First In First Out).
 
 ## Components  of Queues:- 
 
