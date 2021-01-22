@@ -31,6 +31,7 @@ Data Structures and Algorithms using Java
    * [Circular Queue](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/CircularQueue.java)
    * [Round Robin Scheduling](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/RoundRobinScheduling.java)
    * [Simulation: Hot Potato](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/HotPotato.java)
+   * [Queues Notes](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/Queue/QueueNotes)
 * [Linked List](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/Linked%20Lists)
    * [Singly Linked List](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/MyLinkedList.java)
    * [Doubly Linked List with Head](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/DoublyLinkedList.java)
