@@ -39,4 +39,4 @@ Data Structures and Algorithms using Java
    * [Doubly Linked List with Head & Tail](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/DoublyLinkedListDemo.java)
    * [Applications](https://github.com/vnaazleen/Data-Structures-and-Algorithms-in-JAVA/tree/master/Linked%20Lists/Applications)
       * [Josephus circle](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Josephus.java)
-      * [Polynomial ]https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Polynomial.java
+      * [Polynomial](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Polynomial.java)
