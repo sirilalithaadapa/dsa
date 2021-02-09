@@ -31,6 +31,7 @@ Data Structures and Algorithms using Java
    * [Circular Queue](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/CircularQueue.java)
    * [Round Robin Scheduling](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/RoundRobinScheduling.java)
    * [Simulation: Hot Potato](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/HotPotato.java)
+   https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Queue/StackUsingTwoQueues.java
    * [Queues Notes](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/Queue/QueueNotes)
 * [Linked List](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/Linked%20Lists)
    * [Singly Linked List](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/MyLinkedList.java)
@@ -38,4 +39,4 @@ Data Structures and Algorithms using Java
    * [Doubly Linked List with Head & Tail](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/DoublyLinkedListDemo.java)
    * [Applications](https://github.com/vnaazleen/Data-Structures-and-Algorithms-in-JAVA/tree/master/Linked%20Lists/Applications)
       * [Josephus circle](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Josephus.java)
-      * [Polynomial](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Polynomial.java)
+      * [Polynomial ]https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Polynomial.java
