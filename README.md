@@ -40,4 +40,5 @@ Data Structures and Algorithms using Java
    * [Applications](https://github.com/vnaazleen/Data-Structures-and-Algorithms-in-JAVA/tree/master/Linked%20Lists/Applications)
       * [Josephus circle](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Josephus.java)
       * [Polynomial](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/blob/master/Linked%20Lists/Applications/Polynomial.java)
-*[AVL TREE](https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/AVL_Tree)
+*[AVL TREE] (https://github.com/sirilalithaadapa/Data-Structures-and-Algorithms-in-JAVA/tree/master/AVL_Tree)
+
